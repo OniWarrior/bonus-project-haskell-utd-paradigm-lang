@@ -1,0 +1,4 @@
+-- Author: Stephen Aranda
+-- File  : bonus hs
+-- Desc  : Bonus project for paradigm lang class
+-- Date  : 3/22/23
